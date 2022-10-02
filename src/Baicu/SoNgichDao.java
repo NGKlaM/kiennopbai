@@ -1,3 +1,5 @@
+package Baicu;
+
 import java.util.Scanner;
 
 public class SoNgichDao {
